@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.9.8)
+    rubyserial (0.2.2)
+      ffi (~> 1.9.3)
+    sphero (1.5.3)
+      rubyserial (>= 0.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sphero
